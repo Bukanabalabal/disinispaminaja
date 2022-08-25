@@ -45,7 +45,7 @@ echo -e "\u001b[32mDone installing pip!"
 echo -e "\u001b[32mChecking Your ping!"
 cd setup && python speed.py
 echo -e "\u001b[32mDone Chencking Your ping!"
-cd && cd Spam SWE
+cd && cd All_Spam
 echo -e "Running Tools..."
 sleep 5
 python Spam.py
